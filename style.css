@@ -1,0 +1,19 @@
+
+#image
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  text-align: centre;
+}
+
+.parent {
+  width: 100%
+  min-height: 100vh;
+  align-items: center;
+}
+
+
+#img-div {
+  text-align: -webkit-center;
+}
