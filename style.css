@@ -1,14 +1,23 @@
 
-#image
-{
-  max-width: 100%;
+body {
+  background-color: DarkSeaGreen;
+  color: Black;
+  font-family: Calibri; 
+}
+
+#title {
+  text-align: center;
+}
+
+#image {
+  max-width: 60%;
   height: auto;
   display: block;
-  text-align: centre;
+  text-align: center;
 }
 
 .parent {
-  width: 100%
+  width: 100%;
   min-height: 100vh;
   align-items: center;
 }
